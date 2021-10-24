@@ -1,5 +1,5 @@
 {
-    "name": "APITestingusingCypress",
+    "name": "apitestingusingcypress",
     "version": "1.0.0",
     "description": "API Testing using Cypress v8.6.0 Automation framework",
     "main": "index.js",
